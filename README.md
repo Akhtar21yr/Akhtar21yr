@@ -1,7 +1,9 @@
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <h1 align="center">Hi 👋, I'm Akhtar Raza</h1>
 <h3 align="center">A passionate full stack python developer from India</h3>
 
-<img align="right" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="coding">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar21yr&label=Profile%20views&color=0e75b6&style=flat" alt="akhtar21yr" /> </p>
 
