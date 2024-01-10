@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akhtar.decy@gmail.com**
 
-- ⚡ Fun fact **From physics to coding, you're bridging the gap between the laws of the universe and the logic of programming**
+- ⚡ Fun fact **From physics to coding, i am bridging the gap between the laws of the universe and the logic of programming 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
