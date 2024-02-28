@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar21yr&label=Profile%20views&color=0e75b6&style=flat" alt="akhtar21yr" /> </p>
 
-- 🔭 I’m currently working on **Education Counsellor**
+- 🔭 I’m currently working on **Education Counsellor Project**
 
 - 🌱 I’m currently learning **Angular**
 
