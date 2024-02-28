@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar21yr&label=Profile%20views&color=0e75b6&style=flat" alt="akhtar21yr" /> </p>
 
-- 🔭 I’m currently working on **Flask Blog App**
+- 🔭 I’m currently working on **Education Counsellor**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Python, Django, Rest Api**
+- 💬 Ask me about **Python, Flask, Django, Rest Api, Database**
 
 - 📫 How to reach me **akhtar.decy@gmail.com**
 
