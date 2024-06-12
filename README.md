@@ -1,5 +1,5 @@
 <h1 align="center">As-salamu alaikum 👋, I'm Akhtar Raza</h1>
-<h3 align="center">Software Engineer at SH TECH Trading Service | Python | Flask | Django | Angular | SQLAlchemy | Docker | PostgresSQL </h3>
+<h3 align="center">Software Engineer at Fin Rise Softech | Python | Flask | Django | Angular | SQLAlchemy | Docker | PostgresSQL </h3>
 
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar21yr&label=Profile%20views&color=0e75b6&style=flat" alt="akhtar21yr" /> </p>
 
-- 🔭 I’m currently working on **Education Counsellor Project**
+- 🔭 I’m currently working on **Risk managment service**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **jnkins**
 
 - 💬 Ask me about **Python, Flask, Django, Rest Api, Database**
 
